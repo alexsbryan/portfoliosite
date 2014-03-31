@@ -381,6 +381,16 @@
 		color: #aaa;
 	}
 
+	.subline
+	{
+		display: block;
+		color: #aaa;
+		width: 250px;
+		position: absolute;
+		top: 250px;
+		text-wrap: normal;
+	}
+
 /*********************************************************************************/
 /* Icons                                                                         */
 /* Powered by Font Awesome by Dave Gandy | http://fontawesome.io                 */
